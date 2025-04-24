@@ -370,13 +370,10 @@ footer {
 
         .block {
           color: var(---white);
-          
-          .title {
-
-          }
 
           .list {
-            li {
+            li, 
+            li a {
               font-weight: var(--font-weight-regular);
               color: var(--grayish-violet);
             }
@@ -467,19 +464,6 @@ footer {
   
           .block {
             color: var(---white);
-            
-            .title {
-  
-            }
-  
-            .list {
-              li {
-                a {
-                  font-weight: var(--font-weight-regular);
-                  color: var(--grayish-violet);
-                }
-              }
-            }
           }
         }
   
