@@ -473,9 +473,11 @@ footer {
             }
   
             .list {
-              li a {
-                font-weight: var(--font-weight-regular);
-                color: var(--grayish-violet);
+              li {
+                a {
+                  font-weight: var(--font-weight-regular);
+                  color: var(--grayish-violet);
+                }
               }
             }
           }
